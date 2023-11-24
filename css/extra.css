@@ -1,0 +1,5 @@
+.grid-container {
+    display: grid;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+}
